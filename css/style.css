@@ -1,0 +1,40 @@
+body{
+    background-color: #ff7a8a;
+    
+}
+    
+.container{ 
+    
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #52437b;
+    
+}   
+.inform{
+   width: 30%; 
+   text-align: center;
+   font-size: 1.5em;
+    margin-bottom: 20px;
+    color: green;
+}
+.myBtn{
+    margin-left: 20px;
+    margin-bottom: 9px;
+    font-size: 1em;
+    background-color: orangered;
+    
+}
+.ip{
+   
+    text-align: center;
+    font-size: 1.5em;
+    float: left;
+    color: orangered;
+}
+.pass{
+    float: right;
+    color: #fff;
+   font-size: 1.5em
+    
+}
